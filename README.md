@@ -3,7 +3,9 @@
 
 📋 Descripción
 Proyecto ScreenMatch es una aplicación backend diseñada para gestionar recomendaciones de películas y series. Utiliza tecnologías modernas como Java y Spring Boot para proporcionar una API robusta y escalable.
+
 🚀 Instalación
+
 Sigue estos pasos para configurar el proyecto en tu máquina local:
 
 Clonar el repositorio:
