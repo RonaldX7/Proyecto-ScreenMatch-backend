@@ -1,10 +1,11 @@
 
 # Backend de la aplicación ScreenMatch web
 
-📋 Descripción
+<h2>📋 Descripción</h2>
+
 Proyecto ScreenMatch es una aplicación backend diseñada para gestionar recomendaciones de películas y series. Utiliza tecnologías modernas como Java y Spring Boot para proporcionar una API robusta y escalable.
 
-🚀 Instalación
+<h2>🚀 Instalación</h2>
 
 Sigue estos pasos para configurar el proyecto en tu máquina local:
 
@@ -24,13 +25,15 @@ Ejecutar la aplicación:
 
 ```mvn spring-boot:run```
 
-# 🛠️ Tecnologías Utilizadas
+<h2>🛠️ Tecnologías Utilizadas</h2>
+
 - Java 17: Lenguaje de programación utilizado para el desarrollo.
 - Spring Boot 3.2: Framework para simplificar la configuración y el desarrollo de aplicaciones.
 - Maven: Herramienta de gestión de proyectos y dependencias.
 - PostgreSQL: Base de datos en memoria para desarrollo y pruebas.
 - Postman: Herramienta para probar las API.
 
-# 📚 Características
+<h2>📚 Características</h2>
+
 - Recomendaciones: Algoritmos para sugerir películas y series basadas en las preferencias del usuario.
 - API RESTful: Endpoints para interactuar con la base de datos de películas y series.
